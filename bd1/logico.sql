@@ -5,7 +5,7 @@ use Lambe;
 
 drop table if exists Contact;
 create table Contact (
-    id smallint primary key,
+    id smallint primary key auto_increment,
     email varchar(50),
     instagram varchar(50),
     facebook varchar(50),
@@ -15,7 +15,7 @@ create table Contact (
 drop table if exists User;
 create table User (
     password varchar(50),
-    id smallint primary key,
+    id smallint primary key auto_increment,
     name varchar(50),
     lastname varchar(50),
     cpf varchar(50),
@@ -29,7 +29,7 @@ create table User (
 drop table if exists Client;
 create table Client (
     nickname varchar(50),
-    id smallint primary key,
+    id smallint primary key auto_increment,
     name varchar(50),
     lastname varchar(50),
     cpf varchar(50),
@@ -37,12 +37,14 @@ create table Client (
     description varchar(500),
     avatar varchar(500),
     contact_id smallint,
+    user_id smallint,
+    foreign key (user_id) references User (id),
     foreign key (contact_id) references Contact (id) on delete cascade
 );
 
 drop table if exists Product;
 create table Product (
-    id smallint primary key,
+    id smallint primary key auto_increment,
     title varchar(50),
     subtitle varchar(50),
     description varchar(500),

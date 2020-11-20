@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Pedro",
+        "lastname": "Farias",
+        "cpf": "234.567.987-23",
+        "birthday": "28/02/1997",
+        "description": "Pintor ",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/pedro.png?raw=true",
+        "email": "pedro.farias@gmail.com",
+        "instagram": "@pedruxo_fah",
+        "facebook": "@pedruxo_fah",
+        "password": "123",
+        "phone": "77-9999-8888"
+    },
+    {
+        "name": "Vena",
+        "lastname": "Tesla",
+        "cpf": "123.234.345-56",
+        "birthday": "12/12/2000",
+        "description": "Ilustradora",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/vena.png?raw=true",
+        "email": "vena.tesla@gmail.com",
+        "instagram": "@ravenna",
+        "facebook": "@ravenna",
+        "password": "321",
+        "phone": "77 8888-7777"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Pedro",
+        "lastname": "Farias",
+        "cpf": "234.567.987-23",
+        "birthday": "28/02/1997",
+        "description": "Pintor ",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/pedro.png?raw=true",
+        "email": "pedro.farias@gmail.com",
+        "instagram": "@pedruxo_fah",
+        "facebook": "@pedruxo_fah",
+        "phone": "77-9999-8888"
+    },
+    {
+        "name": "Vena",
+        "lastname": "Tesla",
+        "cpf": "123.234.345-56",
+        "birthday": "12/12/2000",
+        "description": "Ilustradora",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/vena.png?raw=true",
+        "email": "vena.tesla@gmail.com",
+        "instagram": "@ravenna",
+        "facebook": "@ravenna",
+        "phone": "77 8888-7777"
+    },
+    {
+        "name": "Miro",
+        "lastname": "Cairo",
+        "cpf": "098.987.876-54",
+        "birthday": "10/10/2001",
+        "description": "Escultor",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/miro.png?raw=true",
+        "email": "miro.cairo@gmail.com",
+        "instagram": "@cairinho0",
+        "facebook": "@cairinho0",
+        "phone": "77 3443-4334"
+    },
+    {
+        "name": "Cristina",
+        "lastname": "Aguilera",
+        "cpf": "111.222.333-44",
+        "birthday": "23/07/1994",
+        "description": "Cantora",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/cristina.png?raw=true",
+        "email": "cristina.aguilera@gmail.com",
+        "instagram": "@cris_ag",
+        "facebook": "@cris_ag",
+        "phone": "77 8888-2233"
+    },
+    {
+        "name": "Elmes",
+        "lastname": "Carpo",
+        "cpf": "345.543.444-55",
+        "birthday": "01/01/2001",
+        "description": "Cantor",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/elmes.png?raw=true",
+        "email": "elmes.carpo@gmail.com",
+        "instagram": "@elmes_carpo",
+        "facebook": "@elmes_carpo",
+        "phone": "77 9090-8989"
+    },
+    {
+        "name": "Alma",
+        "lastname": "Gema",
+        "cpf": "111.444.555.-22",
+        "birthday": "22/03/2000",
+        "description": "Escritora",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/alma.png?raw=true",
+        "email": "alma.gema@gmail.com",
+        "instagram": "@almagema",
+        "facebook": "",
+        "phone": "77 8888-7675"
+    },
+    {
+        "name": "Lando",
+        "lastname": "Nesto",
+        "cpf": "512.521.333-22",
+        "birthday": "13/12/2000",
+        "description": "Pintor",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/lando.png?raw=true",
+        "email": "lando.nesto@gmail.com",
+        "instagram": "@landinho",
+        "facebook": "@landinho",
+        "phone": "77 8766-3443"
+    },
+    {
+        "name": "Henriqueta",
+        "lastname": "Ozorio",
+        "cpf": "102.203.304-34",
+        "birthday": "14/09/1999",
+        "description": "Dançarina",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/henriqueta.png?raw=true",
+        "email": "henriqueta.ozorio@gmail.com",
+        "instagram": "@henri_oz",
+        "facebook": "@henri_oz",
+        "phone": "77 6887-4509"
+    },
+    {
+        "name": "Varlei",
+        "lastname": "Prado",
+        "cpf": "665.445.555-44",
+        "birthday": "23/05/1995",
+        "description": "Escultor",
+        "avatar": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/varlei.png?raw=true",
+        "email": "varlei.prado@gmail.com",
+        "instagram": "@vaarpd",
+        "facebook": "@vaarpd",
+        "phone": "77 8989-3421"
+    }
+]
