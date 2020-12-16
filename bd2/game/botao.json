@@ -1,0 +1,20 @@
+[
+	{
+		"nome":"✖",
+		"descrição":"xis",
+		"cor":"azul"
+	},
+	{
+		"nome":"⏶",
+		"descrição":"triangulo",
+		"cor":"verde"
+	},{
+		"nome":"⚫",
+		"descrição":"bola",
+		"cor":"vermelho"
+	},{
+		"nome":"⬛",
+		"descrição":"quadrado",
+		"cor":"rosa"
+	}
+]

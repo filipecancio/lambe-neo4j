@@ -1,0 +1,11 @@
+[
+    { "nickname": "Pedro","name": "Pedro","lastname":"Farias","cpf": "234.567.987-23","birthday": "1997-2-28","description": "Pintor ","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/pedro.png?raw=true"},
+    { "nickname": "Vena","name": "Vena","lastname":"Tesla","cpf": "123.234.345-56","birthday": "2000-12-12","description": "Ilustradora","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/vena.png?raw=true"},
+    { "nickname": "Miro","name": "Miro","lastname":"Cairo","cpf": "098.987.876-54","birthday": "2001-10-10","description": "Escultor","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/miro.png?raw=true"},
+    { "nickname": "Cristina","name": "Cristina","lastname":"Aguilera","cpf": "111.222.333-44","birthday": "1994-7-23","description": "Cantora","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/cristina.png?raw=true"},
+    { "nickname": "Elmes","name": "Elmes","lastname":"Carpo","cpf": "345.543.444-55","birthday": "2001-1-01","description": "Cantor","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/elmes.png?raw=true"},
+    { "nickname": "Alma","name": "Alma","lastname":"Gema","cpf": "111.444.555.-22","birthday": "2000-3-22","description": "Escritora","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/alma.png?raw=true"},
+    { "nickname": "Lando","name": "Lando","lastname":"Nesto","cpf": "512.521.333-22","birthday": "2000-12-13","description": "Pintor","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/lando.png?raw=true"},
+    { "nickname": "Henriqueta","name": "Henriqueta","lastname":"Ozorio","cpf": "102.203.304-34","birthday": "1999-9-14","description": "Dançarina","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/henriqueta.png?raw=true"},
+    { "nickname": "Varlei","name": "Varlei","lastname":"Prado","cpf": "665.445.555-44","birthday": "1995-5-23","description": "Escultor","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/varlei.png?raw=true"}
+    ]

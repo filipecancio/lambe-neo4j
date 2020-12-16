@@ -1,0 +1,17 @@
+[
+    {
+        "nome":"pular",
+        "custo":"3pontos"
+    },
+    {
+        "nome":"agachar",
+        "custo":"1ponto"
+    },{
+        "nome":"atirar",
+        "custo":"4pontos"
+    },
+    {
+        "nome":"bater",
+        "custo":"2pontos"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {"title": "Quadro","subtitle": "Mona Lisa","description": "Um Belo Quadro","value": 44.50},
+    {"title": "Quadro","subtitle": "Maria","description": "Um Belo Quadro","value": 47.90},
+    {"title": "Pintura","subtitle": "Cavernosa","description": "Uma Bela Pintura","value": 50.90},
+    {"title": "Pintura","subtitle": "Rochosa","description": "Uma Bela Pintura","value": 39.90},
+    {"title": "Pintura","subtitle": "Antiga","description": "Uma Bela Pintura","value": 20.90},
+    {"title": "Ilustração","subtitle": "Vetorial","description": "Uma Bela Ilustrção","value": 42.20},
+    {"title": "Ilustração","subtitle": "Naval","description": "Uma Bela Ilustrção","value": 42.80},
+    {"title": "Ilustração","subtitle": "Glacial","description": "Uma Bela Ilustrção","value": 20.25},
+    {"title": "Ilustração","subtitle": "Aerea","description": "Uma Bela Ilustrção","value": 66.80},
+    {"title": "Ilustração","subtitle": "Galática","description": "Uma Bela Ilustrção","value": 60.20}
+]

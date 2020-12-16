@@ -1,0 +1,4 @@
+[
+    { "nickname": "Pedro","name": "Pedro","lastname":"Farias","cpf": "234.567.987-23","birthday": "1997-2-28","description": "Pintor ","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/pedro.png?raw=true"},
+    { "nickname": "Vena","name": "Vena","lastname":"Tesla","cpf": "123.234.345-56","birthday": "2000-12-12","description": "Ilustradora","image_url": "https://github.com/filipecancio/lambe-neo4j/blob/main/assets/images/vena.png?raw=true"}
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "nome":"Super Chute",
+        "custo":"5 pontos"
+    },
+    {
+        "nome":"Mega Chute",
+        "custo":"10 ponto"
+    },{
+        "nome":"Hiper Chute",
+        "custo":"15 pontos"
+    },
+    {
+        "nome":"Chutão",
+        "custo":"20 pontos"
+    }
+]

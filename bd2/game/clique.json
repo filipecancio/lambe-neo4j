@@ -1,0 +1,54 @@
+[
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"xis"
+        },
+        "entity_2": {
+            "type":"acao",
+            "name":"nome",
+            "value":"pular"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"triangulo"
+        },
+        "entity_2": {
+            "type":"acao",
+            "name":"nome",
+            "value":"atirar"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"quadrado"
+        },
+        "entity_2": {
+            "type":"acao",
+            "name":"nome",
+            "value":"bater"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"bola"
+        },
+        "entity_2": {
+            "type":"acao",
+            "name":"nome",
+            "value":"agachar"
+        },
+        "relationship": "clique"
+    }
+]

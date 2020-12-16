@@ -1,0 +1,119 @@
+[
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"xis"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Super Chute"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"bola"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Super Chute"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"xis"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Mega Chute"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"quadrado"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Mega Chute"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"xis"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Hiper Chute"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"triangulo"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Hiper Chute"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"xis"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Chutão"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"quadrado"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Chutão"
+        },
+        "relationship": "clique"
+    },
+    {
+        "entity_1": {
+            "type":"botao",
+            "name":"descrição",
+            "value":"triangulo"
+        },
+        "entity_2": {
+            "type":"especial",
+            "name":"nome",
+            "value":"Chutão"
+        },
+        "relationship": "clique"
+    }
+]
