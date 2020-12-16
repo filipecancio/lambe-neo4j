@@ -1,0 +1,52 @@
+[
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-01"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-02"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-03"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-04"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-05"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-06"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-07"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-08"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-09"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "workedBy"
+    },
+    {
+        "entity_1": {"type":"Job","name":"name","sheduling":"2020-12-10"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "workedBy"
+    }
+]

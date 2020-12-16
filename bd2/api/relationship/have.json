@@ -1,0 +1,47 @@
+[
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Pedro"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Vena"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Miro"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Cristina"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Elmes"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Alma"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Lando"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Henriqueta"},
+        "entity_2": {"type":"User","name":"name","value":"Pedro"},
+        "relationship": "have"
+    },
+    {
+        "entity_1": {"type":"Client","name":"name","value":"Varlei"},
+        "entity_2": {"type":"User","name":"name","value":"Vena"},
+        "relationship": "have"
+    }
+]
